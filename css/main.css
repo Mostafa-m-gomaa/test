@@ -148,7 +148,7 @@ html {
 @media (max-width: 767px) {
   .landing .lamp-cont .lamp {
     width: 97px;
-    top: 38px;
+    top: -8px;
   }
 }
 
@@ -165,9 +165,9 @@ html {
 
 @media (max-width: 767px) {
   .landing .lamp-cont .light {
-    bottom: 230px;
+    bottom: 510px;
     width: 358px;
-    left: 1.5%;
+    left: 5.5%;
   }
 }
 
